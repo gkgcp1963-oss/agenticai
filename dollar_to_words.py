@@ -1,5 +1,5 @@
 from num2words import num2words
-##Ganesh created from desktop on 3rd Aug 2025
+##Ganesh created from desktop on 08/03/2025..
 
 def dollar_to_words(amount):
     try:
